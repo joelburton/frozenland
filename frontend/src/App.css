@@ -1,0 +1,13 @@
+h2 { 
+  border-top: solid 1px black;
+}
+
+.Menu, .Order, .Messages { 
+  display: inline-block; 
+  vertical-align: top; 
+  margin-right: 2em;
+}
+
+.Menu { width: 25% }
+.Order { width: 25% }
+.Messages { width: 25% }

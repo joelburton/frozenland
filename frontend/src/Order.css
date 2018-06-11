@@ -1,0 +1,6 @@
+.Order {  }
+
+.Order-item {}
+.Order-item-name {}
+.Order-item-price {float: right}
+.Order-total { font-weight: bold}

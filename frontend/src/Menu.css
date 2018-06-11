@@ -1,0 +1,15 @@
+.Menu {}
+
+.Menu-item {
+  padding: 1em;
+  color: white;
+}
+
+.Menu-item-name {
+  font-weight: bold;
+  font-size: 125%;
+}
+
+.Menu-item-price {
+  float: right;
+}
