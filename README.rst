@@ -13,7 +13,7 @@ Backend:
 
   - **GET /flavors** => ``{flavors: [{name: “chocolate”, price: 5, “color”: “black”}, {name: “lime”, price: 3.50, “color: “green”}, …]}``
 
-  - **POST /order w/JSON body of {“flavor”: “chocoalte”}** => ``{result: “unavailable” or “ordered”}``
+  - **POST /order w/JSON body of {“flavor”: “chocolate”}** => ``{result: “unavailable” or “ordered”}``
 
 Front End:
 
